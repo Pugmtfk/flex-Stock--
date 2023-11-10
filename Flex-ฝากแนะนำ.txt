@@ -1,0 +1,330 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1172192537876901898/Frame_1000003910_1.png?ex=655f6c5f&is=654cf75f&hm=a9a97430e5ceef7f402751c0bc30598781cafa2229351ea3eb81115f93ac9db7&",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "3:1"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สวัสดีครับ",
+            "size": "14px",
+            "color": "#ffffff",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ฝากแนะนำสินค้า/บริการ",
+            "size": "14px",
+            "color": "#ffffff",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ของร้านเราด้วยนะครับ",
+            "size": "14px",
+            "color": "#ffffff",
+            "weight": "bold"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "14px",
+        "offsetTop": "20px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://media.discordapp.net/attachments/1166245055342850111/1172188391346012160/Group_6662_2.png?ex=655f6882&is=654cf382&hm=ebff5884758c450d5867d5744bdf345683e81b75364fe23bc582972cd0734c2c&="
+              }
+            ]
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "195px",
+        "offsetTop": "1px"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "270deg",
+      "startColor": "#4470F4",
+      "endColor": "#0C3AB9"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1",
+                "size": "11px",
+                "color": "#C0C0C0",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "height": "50px",
+            "offsetStart": "12px",
+            "width": "10px",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1172200986190811217/image_329_1.png?ex=655f743d&is=654cff3d&hm=7a5cc52f8f1fbcfe0ca8ebe8653d22716a78a64f8eaf7d01c18a4bc61a290592&",
+                    "size": "full",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "width": "47px",
+                "height": "47px"
+              }
+            ],
+            "width": "48px",
+            "height": "48px",
+            "cornerRadius": "5px",
+            "borderWidth": "1px",
+            "borderColor": "#DCDCDC",
+            "margin": "28px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ซีเมนต์",
+                "size": "17px",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "margin": "8px"
+          }
+        ],
+        "margin": "9px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "2",
+                "size": "11px",
+                "color": "#C0C0C0",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "height": "50px",
+            "offsetStart": "12px",
+            "width": "10px",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1172201913199120394/image_329_2.png?ex=655f751a&is=654d001a&hm=2e5b4d2a38ab64425264106f9838133d0ffac1fb3b59c1cdad2d8d96aee99b34&",
+                    "size": "full",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "width": "47px",
+                "height": "47px"
+              }
+            ],
+            "width": "48px",
+            "height": "48px",
+            "cornerRadius": "5px",
+            "borderWidth": "1px",
+            "borderColor": "#DCDCDC",
+            "margin": "28px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "พื้น ผนัง ฝา ฝ้า",
+                "size": "17px",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "margin": "8px"
+          }
+        ],
+        "margin": "9px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "3",
+                "size": "11px",
+                "color": "#C0C0C0",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "height": "50px",
+            "offsetStart": "12px",
+            "width": "10px",
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1172202005188587592/image_370.png?ex=655f7530&is=654d0030&hm=01e5480ebf2212fbfca0f32e631fd6cf9f58e27bf70b7170e0336b1ace3023cd&",
+                    "size": "full",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "width": "47px",
+                "height": "47px"
+              }
+            ],
+            "width": "48px",
+            "height": "48px",
+            "cornerRadius": "5px",
+            "borderWidth": "1px",
+            "borderColor": "#DCDCDC",
+            "margin": "28px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฮาร์ดแวร์",
+                "size": "17px",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "margin": "8px"
+          }
+        ],
+        "margin": "9px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "45 d",
+            "color": "#5B5B5B",
+            "size": "10px"
+          }
+        ],
+        "margin": "9px",
+        "height": "27px",
+        "backgroundColor": "#FAFAFA",
+        "paddingStart": "9px",
+        "paddingEnd": "9px",
+        "justifyContent": "center",
+        "alignItems": "flex-end"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "height": "1px",
+        "margin": "9px",
+        "backgroundColor": "#F3F3F5"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ดูรายละเอียด",
+                "color": "#0040A3",
+                "weight": "bold"
+              }
+            ],
+            "alignItems": "center"
+          }
+        ],
+        "height": "48px",
+        "justifyContent": "center"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
